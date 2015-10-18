@@ -1,6 +1,6 @@
 {
   "name": "mocha-pending-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mocha reporter similar to \"min\" but with logging of pending tests",
   "main": "reporter.js",
   "scripts": {
