@@ -21,4 +21,5 @@ Mocha reporter similar to "min" but with logging of pending tests. Useful as a t
     }
 
 Then simply:
+
     > npm run pending
